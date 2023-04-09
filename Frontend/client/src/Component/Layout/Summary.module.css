@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+.main{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    /* margin-top: 10vh; */
+    margin-bottom: 6vh;
+    flex-direction: column;
+   align-items: center;
+   justify-content: center;
+    background: url('../../images/newbg2.JPG');
+    background-size: cover;
+    background-position: center;
+    /* background-blend-mode: darken; */
+}
+
+.span{
+    font-family: 'Rajdhani', sans-serif;
+    margin: 5px;
+}
+.Offcanvas{
+    background-color: #ffffffb8;
+}
+.button{
+    cursor: pointer;
+    padding:8px 25px;
+    color: white;
+    background-color: green;
+    border: none;
+    border-radius: 15px;
+    font-size: 1rem;
+    font-family: 'ABeeZee', sans-serif;
+    text-decoration: none;
+    margin-top: 10px;
+ 
+}
+.button:hover,
+.button:active{
+    background-color: white;
+    color: green;
+    
+}
+.head{
+    font-size:5rem;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    margin: 1rem;
+}
+.connectButton{
+    color: gray;
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 9px;
+    font-family: 'Anton', sans-serif;
+    border: none;
+    font-size: 1.3rem;
+    position: absolute;
+    top: 52vh;
+    left: 20vw;
+}
+.login{
+    font-size: 1.2rem;
+    font-weight: bold;
+    position: absolute;
+    top: 53vh;
+    left: 31vw;
+}
