@@ -48,7 +48,7 @@ This will allow farmers to list their products with their prices. Customers have
 ### 7. Start frontend
 `$ npm run start` (inside '/Frontend/client')
 
-### 8. Start backend (clone the agroConnect-Backend repository for Backend)
+### 8. Start backend
 `$ python manage.py runserver` (inside '/Backend')
 
 ## Farmer’s Corner
