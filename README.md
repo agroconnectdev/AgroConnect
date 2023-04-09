@@ -51,6 +51,9 @@ This will allow farmers to list their products with their prices. Customers have
 ### 8. Start backend
 `$ python manage.py runserver` (inside '/Backend')
 
+### 8. Watch video tutorial
+https://www.youtube.com/watch?v=529oBS_rmiA
+
 ## Farmer’s Corner
 
 This app also contains a special section called Farmer’s corner, a section completely dedicated to Farmers with the vision of providing informative and educational content specifically related to Agriculture.
